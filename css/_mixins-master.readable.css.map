@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/mixins/_mixins-master.scss"
+    ],
+    "names": [],
+    "file": "_mixins-master.readable.css"
+}

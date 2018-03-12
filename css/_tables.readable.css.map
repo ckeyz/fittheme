@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACL,MAAM,EAAE,SAAS;EACjB,KAAK,EAAE,IAAI;CACX",
+    "sources": [
+        "../sass/elements/_tables.scss"
+    ],
+    "names": [],
+    "file": "_tables.readable.css"
+}

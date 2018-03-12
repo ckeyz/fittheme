@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC;EACP,MAAM,EAAE,SAAS;EAEjB,+CAA+C;CAI/C;;AAPD,AAIC,OAJM,CAIN,MAAM,CAAC;EACN,SAAS,EAAE,IAAI;CACf",
+    "sources": [
+        "../sass/site/secondary/_widgets.scss"
+    ],
+    "names": [],
+    "file": "_widgets.readable.css"
+}

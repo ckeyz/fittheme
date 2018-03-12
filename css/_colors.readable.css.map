@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/variables-site/_colors.scss"
+    ],
+    "names": [],
+    "file": "_colors.readable.css"
+}

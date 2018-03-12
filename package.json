@@ -1,0 +1,23 @@
+{
+  "name": "fittheme",
+  "version": "1.0.0",
+  "description": "Fitness based wordpress theme",
+  "main": "index.php",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuraibu/fittheme.git"
+  },
+  "keywords": [
+    "theme",
+    "wordpress",
+    "fitness",
+    "underscores",
+    "sass"
+  ],
+  "author": "Clive Tshuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuraibu/fittheme/issues"
+  },
+  "homepage": "https://github.com/kuraibu/fittheme#readme"
+}
